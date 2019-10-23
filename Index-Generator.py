@@ -16,7 +16,7 @@ banner = '''
 	    |                                                  |
 	    |                  Index-Generator                 |
 	    |                 By : Ayoub Ourass                |
-	    |     https://www.facebook.com/ayoub.flack.90      |
+	    |         https://www.facebook.com/Ay0ub.90        |
 	    |__________________________________________________|  
 	   '''
 print(banner)
