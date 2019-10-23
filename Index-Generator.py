@@ -32,7 +32,7 @@ if option==1:
 	Image      = raw_input(G+"Insert A Picture (Image Source)  : ")
 	pic_size   = raw_input(G+"Enter Your Picture Size (px)     : ")
 	otext      = raw_input(G+"Another Text ? (Optional)        : ")
-	Music      = raw_input(G+"Music                            : ")
+	Music      = raw_input(G+"Music (YouTube)                  : ")
 	finalindex = raw_input(G+"Output Name                      : ")
 	x = '"'
 	print("Wait While Making Your Index ....")
